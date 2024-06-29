@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Python**
 
-- 👯 I’m looking to collaborate on **Huge apps developments**
+- 👯 I’m looking to collaborate on **Huge app development projects**
 
 - 🤝 I’m looking for help with **UI/UX applications designs**
 
