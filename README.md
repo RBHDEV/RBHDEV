@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **React Native, Python**
+- 🌱 I’m currently learning **Python, Django.DB**
 
 - 👯 I’m looking to collaborate on **Huge app development projects**
 
 - 🤝 I’m looking for help with **UI/UX applications designs**
 
-- 💬 Ask me about **Flutter App Development for a cross platform**
+- 💬 Ask me about **Flutter App Development for a cross-platform**
 
 - 📫 How to reach me **ramzibouhadjardevelopment@gmail.com**
 
-- ⚡ Fun fact **I'm programmer, I got no life 😁**
+- ⚡ Fun fact **I'm a programmer, I have no life 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
